@@ -114,10 +114,6 @@ papers-mcp/
 
 感谢 [Linux.do](https://linux.do) 社区佬友们的关注与支持！欢迎交流反馈 🙏
 
-## 📝 License
-
-MIT License — 随便用，开心就好。
-
 ---
 
 <div align="center">
