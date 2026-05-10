@@ -112,7 +112,7 @@ papers-mcp/
 
 ## 💬 社区
 
-- [Linux.do 讨论帖](https://linux.do) — 欢迎交流反馈！
+感谢 [Linux.do](https://linux.do) 社区佬友们的关注与支持！欢迎交流反馈 🙏
 
 ## 📝 License
 
