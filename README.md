@@ -16,8 +16,6 @@
 
 一个 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) 服务器，让你的 AI 助手（Claude Code / Claude Desktop）直接**搜索论文、查引用、读 PDF**——不需要离开对话窗口。
 
-> 🎯 **告别复制粘贴**：不再在 Google Scholar、arXiv 和 AI 之间反复切换
-
 ## 🚀 能做什么？
 
 | 工具 | 功能 | 示例 |
@@ -111,6 +109,10 @@ papers-mcp/
 ├── .gitignore
 └── LICENSE
 ```
+
+## 💬 社区
+
+- [Linux.do 讨论帖](https://linux.do) — 欢迎交流反馈！
 
 ## 📝 License
 
